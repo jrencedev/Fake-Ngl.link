@@ -38,7 +38,7 @@
 				</div>
 				<!-- You can change username in here -->
 				<div class="user-container">
-					<div class="username">@MrSans</div>
+					<div class="username">@jrencenvm</div>
 					<div class="prompt">ask me anything, anonymously</div>
 				</div>
 			</div>
